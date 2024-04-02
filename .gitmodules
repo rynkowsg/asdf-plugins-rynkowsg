@@ -1,0 +1,6 @@
+[submodule "rynkowsg/asdf-clj-kondo"]
+	path = plugins/clj-kondo
+	url = git@github.com:rynkowsg/asdf-clj-kondo.git
+[submodule "rynkowsg/asdf-opentofu"]
+	path = plugins/opentofu
+	url = git@github.com:rynkowsg/asdf-opentofu.git
