@@ -4,6 +4,9 @@
 [submodule "rynkowsg/asdf-garden-cli"]
 	path = plugins/garden-cli
 	url = git@github.com:rynkowsg/asdf-garden-cli.git
+[submodule "rynkowsg/asdf-jet"]
+	path = plugins/jet
+	url = git@github.com:rynkowsg/asdf-jet.git
 [submodule "rynkowsg/asdf-opentofu"]
 	path = plugins/opentofu
 	url = git@github.com:rynkowsg/asdf-opentofu.git
