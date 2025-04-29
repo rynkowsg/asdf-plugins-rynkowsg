@@ -10,6 +10,7 @@ asdf-plugins-rynkowsg is a collection of plugins I made for [asdf](https://asdf-
 | [garden-cli]                 | [rynkowsg/asdf-garden-cli][asdf-garden-cli] |
 | [jet]                        | [rynkowsg/asdf-jet][asdf-jet]               |
 | [opentofu][opentofu-website] | [rynkowsg/asdf-opentofu][asdf-clj-opentofu] |
+| a generic Python Application | [rynkowsg/asdf-pyapp][asdf-pyapp]           |
 
 [clj-kondo]: https://github.com/clj-kondo/clj-kondo
 [garden-cli]: https://github.com/nextjournal/garden-cli
@@ -20,6 +21,7 @@ asdf-plugins-rynkowsg is a collection of plugins I made for [asdf](https://asdf-
 [asdf-clj-opentofu]: https://github.com/rynkowsg/asdf-opentofu
 [asdf-garden-cli]: https://github.com/rynkowsg/asdf-garden-cli
 [asdf-jet]: https://github.com/rynkowsg/asdf-jet
+[asdf-pyapp]: https://github.com/rynkowsg/asdf-pyapp
 
 ## Development - handy commands
 

@@ -10,3 +10,6 @@
 [submodule "rynkowsg/asdf-opentofu"]
 	path = plugins/opentofu
 	url = git@github.com:rynkowsg/asdf-opentofu.git
+[submodule "rynkowsg/asdf-pyapp"]
+	path = plugins/pyapp
+	url = git@github.com:rynkowsg/asdf-pyapp.git
